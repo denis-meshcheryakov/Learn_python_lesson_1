@@ -1,7 +1,4 @@
 name = 'Denis'
-a = 2
-b = 10
-c = 3
 
 
 def summing(x, y):
@@ -23,5 +20,5 @@ if __name__ == "__main__":
     print(name)
     print("Привет мир!")
     print('Привет программист!')
-    print(summing(a, a))
-    print(division(b, c))
+    print(summing(2, 2))
+    print(division(10, 3))
